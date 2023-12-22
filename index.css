@@ -1,0 +1,48 @@
+.bg{
+    background-color: #f5f7fa;
+}
+.heading{
+    color: #1f2933;
+    font-size: 48px;
+    font-weight: 500;
+}
+.para{
+    color: #1f2933;
+    font-size: 18px;
+    font-weight: 500px;
+}
+.error{
+    color: #cf1124;
+    font-size: 24px;
+    font-weight: 500;
+}
+.width{
+    color: #323f4b;
+    font-size: 16px;
+    font-weight: 400;
+    margin-top: 15px;
+}
+.bg-container{
+    background-color: #ffffff;
+    width: 140px;
+}
+.btn{
+    color: #323f4b;
+    border-width: 0px;
+    height: 50px;
+    width: 35%;
+    font-weight: 700;
+    font-size: 20px;
+    background-color: #ffffff;
+}
+.hr-line{
+    width: 1px;
+    height: 20px;
+    background-color: black;
+}
+.width-in-px{
+    color: #323f4b;
+    font-size: 20px;
+    margin: 10px;
+    font-weight: 700;
+}
